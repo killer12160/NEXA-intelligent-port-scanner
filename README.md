@@ -167,8 +167,3 @@ NEXA will run without some of these, but functionality will be reduced (e.g., no
 
 * Built with Python for scanning, with optional Nmap & Gemini-CLI integration.
 * Inspired by tools like Nmap, Masscan and AI-assisted analysis workflows.
-
----
-
-* Add a `demo.sh` sample run that saves artifacts and screenshots ready for the report.
-* Generate a release-ready `README.docx` if you need Word format for submission.
